@@ -7,5 +7,5 @@ print"second"
 print "third"
 print "four"
 print "five"
-6
+86
 end
